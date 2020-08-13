@@ -31,11 +31,12 @@ _____
 
 ### Slide: [Analytics 101]()
 
+* Overview
 * Statistics
 * Data Mining
 * Data Science
-* Artificial Intelligence
 * Machine Learning
+* Artificial Intelligence
 * Deep Learning
 * Neural Network
 
