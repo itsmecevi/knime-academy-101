@@ -52,7 +52,13 @@ _____
 ### Knime-Academy-101
 
 * Slide: KNIME GUI [Graphical User Interface](https://docs.google.com/presentation/d/1qmye0ERDQvc8MeD5hyl9wOAdwk42DLRgiU6jfwbjXC8/edit?usp=sharing)
-* Read Data
+* Read Data:
+  * CSV file-> [airtravel.csv](https://github.com/itsmecevi/airtravel.csv/find/master)
+  * MS Excel-> 
+  * API->
+  * PDF->
+  * Images-> 
+  
 * Transform
 * Analyze
 * Deploy (visualize)
