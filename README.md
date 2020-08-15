@@ -71,9 +71,8 @@ _____
 * C
 * D
 
-### Solution-> [Here]()
 
-### Industry Use Case!(optional, Practicing Data Science with KNIME)
+### Industry Use Case
 
 
 * Customer Intelligence:
