@@ -10,7 +10,7 @@
 
 <span>&#128202;</span> [About Knime Analytics](https://www.knime.com/about) 
 
-<span>&#128201;</span> [KNIME Technical Spesifications](https://www.knime.com/knime-analytics-platform)-> [Click Here](https://www.knime.com/knime-analytics-platform)
+<span>&#128201;</span> [KNIME Technical Spesifications](https://www.knime.com/knime-analytics-platform)
 
 <span>&#128210;</span> [KNIME Changelog](https://www.knime.com/changelog-v31)
 
