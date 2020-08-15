@@ -35,8 +35,8 @@ _____
 * Statistics
 * Data Mining
 * Data Science
-* Machine Learning
 * Artificial Intelligence
+* Machine Learning
 * Deep Learning
 * Neural Network
 
