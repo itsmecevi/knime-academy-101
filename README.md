@@ -14,7 +14,7 @@
 
 <span>&#128210;</span> [KNIME Changelog](https://www.knime.com/changelog-v31)
 
-<span>&#128302;</span> Duration: 12 hours
+<span>&#128302;</span> Duration: 10 hours
 
 
 
