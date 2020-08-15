@@ -54,7 +54,7 @@ _____
 * Slide: KNIME GUI [Graphical User Interface](https://docs.google.com/presentation/d/1qmye0ERDQvc8MeD5hyl9wOAdwk42DLRgiU6jfwbjXC8/edit?usp=sharing)
 * Read Data:
   * CSV file-> [airtravel.csv](https://github.com/itsmecevi/airtravel.csv/find/master)
-  * MS Excel-> 
+  * MS Excel-> [financial_sample.xlsx](https://github.com/itsmecevi/financial_sample.xlsx)
   * API->
   * PDF->
   * Images-> 
