@@ -55,6 +55,8 @@ _____
 * Read Data:
   * CSV file-> [airtravel.csv](https://github.com/itsmecevi/airtravel.csv/find/master)
   * MS Excel-> [financial_sample.xlsx](https://github.com/itsmecevi/financial_sample.xlsx)
+  * Table->
+  * Database->
   * API-> [https://any-api.com/](https://any-api.com/)
   * PDF->
   * Images-> 
