@@ -51,6 +51,9 @@ _____
 
 ### Knime-Academy-101
 
+![RD1](https://user-images.githubusercontent.com/27078712/90319433-61dec580-df62-11ea-813b-efa67313bb6f.PNG)
+
+
 * Slide: KNIME GUI [Graphical User Interface](https://docs.google.com/presentation/d/1qmye0ERDQvc8MeD5hyl9wOAdwk42DLRgiU6jfwbjXC8/edit?usp=sharing)
 * Read Data:
   * CSV file-> [airtravel.csv](https://github.com/itsmecevi/airtravel.csv/find/master)
