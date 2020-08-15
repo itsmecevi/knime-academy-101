@@ -67,7 +67,8 @@ _____
 * Deploy (visualize)
 
 
-### Dataset:
+### Workflow:
+
 * A
 * B
 * C
@@ -80,7 +81,7 @@ _____
 * Analyze
 * Deploy (visualize)
 
-### Industry Use Case
+### Industry Use Case!(optional, Practicing Data Science with KNIME)
 
 * Finance
 * Retail
