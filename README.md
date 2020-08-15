@@ -75,12 +75,45 @@ _____
 
 ### Industry Use Case!(optional, Practicing Data Science with KNIME)
 
-* Finance
-* Retail
-* Government
-* Pharma / Health Care
-* Manufacturing
-* Social Media Analytics
+
+* Customer Intelligence:
+  * Churn Prediction
+  * Customer Segmentation
+
+* Retail and Supply Chain
+Market Basket Analysis with the Apriori Algorithm
+Movie Recommendations with Spark Collaborative Filtering
+
+
+* Banking and Insurance: Credit Risk Assessment
+
+
+* Web & Social Media:
+  * Document Classification: Spam vs Ham
+  * Topic Detection: What is it all about?
+  * Sentiment Analysis: What is with the tone?
+  * Find the influencers
+  * Sentiment & Influencers
+
+
+* Web Analytics: Click Stream Analysis
+
+
+* IoT:
+  * Bike Restocking Alert with Minimum Set of Input Features
+  * Taxi Demand Prediction using Random Forest on Spark
+  * Anomaly Detection
+
+
+* Cybersecurity:
+  * Fraud detection
+  * Fraud detection using a neural auto-encoder
+
+
+* Text Generation:
+  * Neural Machine Translation with RNN
+  * Product Naming with Deep Learning for Marketers and Retailers-Keras Inspired
+
 
 # Preferences :
 
