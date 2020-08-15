@@ -1,7 +1,5 @@
 # knime-academy-101
 
-![knime-etl](https://user-images.githubusercontent.com/27078712/90319471-baae5e00-df62-11ea-80d0-f9c0897f3b01.png)
-
 
 
 <span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
@@ -49,7 +47,8 @@ _____
 
 ### Knime-Academy-101
 
-![RD1](https://user-images.githubusercontent.com/27078712/90319433-61dec580-df62-11ea-813b-efa67313bb6f.PNG)
+![knime-etl](https://user-images.githubusercontent.com/27078712/90319471-baae5e00-df62-11ea-80d0-f9c0897f3b01.png)
+
 
 
 * Slide: KNIME GUI [Graphical User Interface](https://docs.google.com/presentation/d/1qmye0ERDQvc8MeD5hyl9wOAdwk42DLRgiU6jfwbjXC8/edit?usp=sharing)
