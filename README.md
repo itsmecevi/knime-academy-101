@@ -61,7 +61,7 @@ _____
   
 * Transform:
 * Analyze
-* Deploy (visualize)
+* Deploy / Visualize
 
 
 ### Hands-On Workflow
