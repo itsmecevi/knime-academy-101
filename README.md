@@ -75,6 +75,13 @@ _____
 ### Industry Use Case
 
 
+* Web & Social Media:
+  * Document Classification: Spam vs Ham
+  * Topic Detection: What is it all about?
+  * Sentiment Analysis: What is with the tone?
+  * Find the influencers
+  * Sentiment & Influencers
+  
 * Customer Intelligence:
   * Churn Prediction
   * Customer Segmentation
@@ -85,15 +92,6 @@ _____
 
 
 * Banking and Insurance: Credit Risk Assessment
-
-
-* Web & Social Media:
-  * Document Classification: Spam vs Ham
-  * Topic Detection: What is it all about?
-  * Sentiment Analysis: What is with the tone?
-  * Find the influencers
-  * Sentiment & Influencers
-
 
 * Web Analytics: Click Stream Analysis
 
