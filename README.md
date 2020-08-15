@@ -41,11 +41,12 @@ _____
 * Deep Learning
 
 
+_____
 
 
+### Knime-Academy-101
 
-### Slide: [Knime-Academy-101]()
-
+* KNIME GUI (Graphical User Interface)
 * Read Data
 * Transform
 * Analyze
