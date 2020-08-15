@@ -3,6 +3,7 @@
 ![knime-etl](https://user-images.githubusercontent.com/27078712/90319471-baae5e00-df62-11ea-80d0-f9c0897f3b01.png)
 
 
+
 <span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
 <span>&#128202;</span> [About Knime Analytics](https://www.knime.com/about) 
