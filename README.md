@@ -46,7 +46,7 @@ _____
 
 ### Knime-Academy-101
 
-* KNIME GUI (Graphical User Interface)
+* Slide: KNIME GUI (Graphical User Interface)[]
 * Read Data
 * Transform
 * Analyze
