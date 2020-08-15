@@ -64,7 +64,7 @@ _____
 * Deploy (visualize)
 
 
-### Hands-On Workflow:
+### Hands-On Workflow
 
 * A
 * B
