@@ -58,8 +58,9 @@ _____
   * API-> [https://any-api.com/](https://any-api.com/)
   * PDF->
   * Images-> 
+  * Etc
   
-* Transform
+* Transform:
 * Analyze
 * Deploy (visualize)
 
