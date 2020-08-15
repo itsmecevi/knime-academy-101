@@ -29,7 +29,7 @@ _____
 
 _____
 
-### Slide: [Analytics 101]()
+### Slide: [Analytics 101](https://docs.google.com/presentation/d/1t7og49pwYyffxURxheyAfizA9M_kG2JDe5rP5TfFjmA/edit?usp=sharing)
 
 * Overview
 * Statistics
@@ -37,8 +37,9 @@ _____
 * Data Science
 * Artificial Intelligence
 * Machine Learning
-* Deep Learning
 * Neural Network
+* Deep Learning
+
 
 
 
