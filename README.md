@@ -50,7 +50,7 @@ _____
 
 ### Knime-Academy-101
 
-* Slide: KNIME GUI (Graphical User Interface)[]
+* Slide: KNIME GUI [Graphical User Interface](https://docs.google.com/presentation/d/1qmye0ERDQvc8MeD5hyl9wOAdwk42DLRgiU6jfwbjXC8/edit?usp=sharing)
 * Read Data
 * Transform
 * Analyze
