@@ -80,8 +80,8 @@ _____
   * Customer Segmentation
 
 * Retail and Supply Chain
-Market Basket Analysis with the Apriori Algorithm
-Movie Recommendations with Spark Collaborative Filtering
+  * Market Basket Analysis with the Apriori Algorithm
+  * Movie Recommendations with Spark Collaborative Filtering
 
 
 * Banking and Insurance: Credit Risk Assessment
