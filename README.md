@@ -8,11 +8,15 @@
 
 <span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<span>&#128202;</span> About Knime Analytics -> [Click Here](https://www.knime.com/about)
+<span>&#128202;</span> [About Knime Analytics](https://www.knime.com/about) 
 
-<span>&#128201;</span> KNIME Technical Spesifications-> [Click Here](https://www.knime.com/knime-analytics-platform)
+<span>&#128201;</span> [KNIME Technical Spesifications](https://www.knime.com/knime-analytics-platform)-> [Click Here](https://www.knime.com/knime-analytics-platform)
 
-<span>&#128302;</span> Duration: 8 hours (2 days)
+<span>&#128210;</span> [KNIME Changelog](https://www.knime.com/changelog-v31)
+
+<span>&#128302;</span> Duration: 12 hours
+
+
 
 
 
