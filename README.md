@@ -57,29 +57,21 @@ _____
   * MS Excel-> [financial_sample.xlsx](https://github.com/itsmecevi/financial_sample.xlsx)
   * Table->
   * Database->
-  * API-> [https://any-api.com/](https://any-api.com/)
-  * PDF->
-  * Images-> 
-  * Etc
+
   
 * Transform:
 * Analyze
 * Deploy (visualize)
 
 
-### Workflow:
+### Hands-On Workflow:
 
 * A
 * B
 * C
 * D
 
-### Solutions
-
-* Read Data
-* Transform
-* Analyze
-* Deploy (visualize)
+### Solution-> [Here]()
 
 ### Industry Use Case!(optional, Practicing Data Science with KNIME)
 
