@@ -98,7 +98,7 @@ _____
 * Scripting
 
 
-### Industry Use Case
+### Industry Use Case (Practicing Data Science with KNIME course)
 
 
 * Web & Social Media:
