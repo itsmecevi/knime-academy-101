@@ -95,7 +95,7 @@ _____
 * Clustering
 * Classification
 * Forecasting
-* Scripting
+* Scripting (R & Python)
 
 
 ### Industry Use Case (Practicing Data Science with KNIME course)
