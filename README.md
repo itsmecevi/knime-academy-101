@@ -72,8 +72,21 @@ _____
   * [Concatenate](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/14_Concatenate)
   * [Database Data Manipulation](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/15_Database_Data_Manipulation)
   
-* Analyze
-* Deploy / Visualize
+* Analyze:
+
+  * Data Explorer
+  * Logistic Regression
+  * Decision Tree
+  * Confusion Matrix and Class Statistics
+  * ROC Curve
+  * Regression Model Evalution
+  * Random Forest
+  
+* Deploy / Visualize:
+  * Write Data to File
+  * Export to BIRT Report
+  * Visualization
+  
 
 
 ### Hands-On Workflow
