@@ -61,16 +61,16 @@ _____
   
 * Transform:
   * [Basic Row Filter](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/06_Basic_Row_Filter)
-  * [Advanced Row Filter]
-  * Column Filter
-  * Transformation
-  * Lag Column
-  * Data Time Manipulation
-  * Classic Aggregation with Group By
-  * Pivoting
-  * Join
-  * Concatenate
-  * Database Data Manipulation
+  * [Advanced Row Filter](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/07_Advanced_Row_Filter)
+  * [Column Filter](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/08_Column_Filter)
+  * [Transformation](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/09_Transformation)
+  * [Lag Column](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/10_Lag_Column)
+  * [Data Time Manipulation](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/10_DateTime_Manipulation)
+  * [Classic Aggregation with Group By](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/11_Classic_Aggregations_with_GroupBy_Node)
+  * [Pivoting](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/12_Pivoting)
+  * [Join](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/13_Join)
+  * [Concatenate](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/14_Concatenate)
+  * [Database Data Manipulation](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DW%20KNIME%20Analytics%20Platform%20for%20Data%20Wranglers%20-%20Basics/Exercises/15_Database_Data_Manipulation)
   
 * Analyze
 * Deploy / Visualize
