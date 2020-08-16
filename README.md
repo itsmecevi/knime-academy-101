@@ -56,7 +56,7 @@ _____
   * CSV file-> [airtravel.csv](https://github.com/itsmecevi/airtravel.csv/find/master)
   * MS Excel-> [financial_sample.xlsx](https://github.com/itsmecevi/financial_sample.xlsx)
   * Table-> [adult_women.table](https://github.com/itsmecevi/adult_women.table/blob/master/adult_women.table)
-  * Database-> [WbActivity.sqlite](https://github.com/itsmecevi/WebActivity.sqlite/blob/master/WebActivity.sqlite)
+  * Database-> [WebActivity.sqlite](https://github.com/itsmecevi/WebActivity.sqlite/blob/master/WebActivity.sqlite)
 
   
 * Transform:
