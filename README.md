@@ -91,10 +91,11 @@ _____
 
 ### Hands-On Workflow
 
-* A
-* B
-* C
-* D
+* Simple Statistics
+* Clustering
+* Classification
+* Forecasting
+* Scripting
 
 
 ### Industry Use Case
