@@ -1,5 +1,7 @@
 # knime-academy-101
 
+![knime-analytics-platform](https://user-images.githubusercontent.com/27078712/87846281-fe2c9280-c8f8-11ea-8133-911cb9cbb27b.png)
+
 
 
 <span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
