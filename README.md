@@ -60,8 +60,8 @@ _____
 
   
 * Transform:
-  * Basic Row Filter
-  * Advanced Row Filter
+  * [Basic Row Filter](https://hub.knime.com/stervis/spaces/Public/latest/E-Learning/L1-DS%20KNIME%20Analytics%20Platform%20for%20Data%20Scientists%20-%20Basics/Exercises/06_Basic_Row_Filter)
+  * [Advanced Row Filter]
   * Column Filter
   * Transformation
   * Lag Column
