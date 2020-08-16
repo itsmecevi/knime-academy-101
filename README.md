@@ -60,6 +60,18 @@ _____
 
   
 * Transform:
+  * Basic Row Filter
+  * Advanced Row Filter
+  * Column Filter
+  * Transformation
+  * Lag Column
+  * Data Time Manipulation
+  * Classic Aggregation with Group By
+  * Pivoting
+  * Join
+  * Concatenate
+  * Database Data Manipulation
+  
 * Analyze
 * Deploy / Visualize
 
